@@ -1,15 +1,14 @@
-# Hi there, I'm Likith Kumar Dundigalla! 👋
+# Likith Kumar Dundigalla  
+**Data Scientist | Machine Learning Engineer | Data Engineer**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/likithkumard04)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:likithkumard@arizona.edu)
+## 📚 Education
+**M.S. in Data Science**  
+University of Arizona | GPA: 3.9/4.0  
+*Graduate Certificate in Natural Language Processing*  
+*Relevant Coursework: Advanced ML, Big Data Systems, NLP, Data Mining*
 
-## About Me
 
-- 🔭 Data Science Graduate from the University of Arizona.
-- 🌱 I’m currently learning and exploring advanced AI/ML technologies and data engineering practices.
-- 👯 I’m looking to collaborate on data science, data engineering, and analytics projects.
-- 🤔 I’m looking for opportunities to apply my skills in data governance, data quality, data pipeline development, AI and NLP.
-- 💬 Ask me about data science, machine learning, and big data technologies.
-- 📫 How to reach me: [likithkumard@arizona.edu](mailto:likithkumard@arizona.edu) or connect with me on [LinkedIn](https://linkedin.com/in/likithkumard04).
-- 😄 Pronouns: He/Him
-- ⚡ Certifications: Graduate Certificate in Natural Language Processing from the University of Arizona.
 
 ## Technical Skills
 
@@ -58,10 +57,6 @@
 - Developed financial dashboards to track expenditures, revenue, and budget variances for decision-making.
 - Monitored financial transactions and reconciled expenses, ensuring accurate reporting and compliance.
 
-## Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/likithkumard04)
-- [Email](mailto:likithkumard@arizona.edu)
 
 ## GitHub Stats
 
