@@ -2,14 +2,14 @@
 
 ## About Me
 
-- 🔭 I’m currently pursuing a Master of Science in Data Science at the University of Arizona.
+- 🔭 Data Science Graduate from the University of Arizona.
 - 🌱 I’m currently learning and exploring advanced AI/ML technologies and data engineering practices.
 - 👯 I’m looking to collaborate on data science, data engineering, and analytics projects.
-- 🤔 I’m looking for opportunities to apply my skills in data governance, data quality, and data pipeline development.
+- 🤔 I’m looking for opportunities to apply my skills in data governance, data quality, data pipeline development, AI and NLP.
 - 💬 Ask me about data science, machine learning, and big data technologies.
 - 📫 How to reach me: [likithkumard@arizona.edu](mailto:likithkumard@arizona.edu) or connect with me on [LinkedIn](https://linkedin.com/in/likithkumard04).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a Graduate Certificate in Natural Language Processing from the University of Arizona.
+- ⚡ Certifications: Graduate Certificate in Natural Language Processing from the University of Arizona.
 
 ## Technical Skills
 
@@ -19,7 +19,7 @@
 - **Cloud Platforms**: AWS (EC2, CloudWatch, Redshift, S3), Azure (Data Factory, Databricks, OpenAI Services)
 - **Data Visualization Tools**: Power BI, Tableau, Domo BI, QuickSight, Microsoft Excel
 - **Data Management & Automation**: Alteryx, Informatica PC, CI/CD, Microsoft Excel (VBA, Macros, Pivot)
-- **Competencies**: Data Modelling, Data Analysis, Data Governance, Data Quality, Data Pipelines, Reporting, Budgeting, Forecasting, Financial Reporting, Expense Tracking
+- **Competencies**: Data Modelling, Data Analysis, Data Governance, Data Quality, Data Pipelines, Reporting, Budgeting, Forecasting, Financial Reporting, Expense Tracking, Intelligent Agents, RAGs
 
 ## Work Experience
 
