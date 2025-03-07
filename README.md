@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:likithkumard@arizona.edu)
 ## 📚 Education
 **M.S. in Data Science**  
-University of Arizona | GPA: 3.9/4.0  
+University of Arizona | GPA: 3.88/4.0  
 *Graduate Certificate in Natural Language Processing*  
 *Relevant Coursework: Advanced ML, Big Data Systems, NLP, Data Mining*
 
