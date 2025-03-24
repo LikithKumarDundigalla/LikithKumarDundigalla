@@ -30,7 +30,7 @@ University of Arizona | GPA: 3.88/4.0
 - Built Neo4j database for token storage/querying via Cypher, lifting efficiency by 70% and cutting redundancy by 40%.
 - Developed RAG system converting natural language to Cypher, slashing query time by 50% and manual work by 80%.
 
-### Data Engineer
+### Data Engineer [ Informa & HealthEdge]
 **Tricon Infotech Pvt Ltd**
 *Aug 2022 - Jul 2023*
 - Built a PySpark ETL pipeline integrating 50+ global events into Domo BI with validation, ensuring 100% accuracy.
