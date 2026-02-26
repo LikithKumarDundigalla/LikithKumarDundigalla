@@ -38,7 +38,7 @@ Jawaharlal Nehru Technological University | GPA: 3.52/4.0
 ## 💼 Work Experience
 
 ### Data Scientist
-**Talented App Inc (bld.ai)**  
+**Talented App Inc (bld.ai)** *(Client: Worldpac)*  
 *Jan 2025 – Present | Oak Brook, Illinois*
 
 - Architecting and automating end-to-end data pipelines on **Azure** and **Snowflake** using **Databricks**, enabling reliable, analytics-ready data for ML model consumption.
