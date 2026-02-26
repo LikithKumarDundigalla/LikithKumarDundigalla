@@ -41,11 +41,12 @@ Jawaharlal Nehru Technological University | GPA: 3.52/4.0
 **Talented App Inc (bld.ai)** *(Client: Worldpac)*  
 *Jan 2025 – Present | Oak Brook, Illinois*
 
-- Architecting and automating end-to-end data pipelines on **Azure** and **Snowflake** using **Databricks**, enabling reliable, analytics-ready data for ML model consumption.
+- Architecting end-to-end data pipelines on \textbf{Databricks} integrating \textbf{Snowflake}, AS-400, and WorldPac's Speed Dial data for ML models.
 - Engineered data preparation and feature engineering workflows for product pricing and customer discounting models, supporting downstream ML development at scale.
 - Developed customer segmentation and clustering models to identify distinct buyer personas, enabling targeted discounting strategies across product lines.
 - Built price elasticity models to quantify demand sensitivity, informing dynamic pricing decisions; initial pilot results projected to increase product sales revenue.
 
+   
 ### Data Scientist
 **Tricon Infotech LLC**  
 *May 2025 – Jan 2025 | Overland Park, Kansas*
