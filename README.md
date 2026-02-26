@@ -106,12 +106,6 @@ Jawaharlal Nehru Technological University | GPA: 3.52/4.0
 
 ---
 
-## 📊 GitHub Stats
-
-![Likith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LikithKumarDundigalla&show_icons=true&theme=default)
-
----
-
 ## 👀 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=LikithKumarDundigalla&label=PROFILE+VIEWS)
