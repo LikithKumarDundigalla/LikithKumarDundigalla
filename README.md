@@ -46,6 +46,15 @@ Jawaharlal Nehru Technological University | GPA: 3.52/4.0
 - Developed customer segmentation and clustering models to identify distinct buyer personas, enabling targeted discounting strategies across product lines.
 - Built price elasticity models to quantify demand sensitivity, informing dynamic pricing decisions; initial pilot results projected to increase product sales revenue.
 
+### Data Scientist
+**Tricon Infotech LLC**  
+*May 2025 – Jan 2025 | Overland Park, Kansas*
+
+- Spearheaded **CFG Health**'s project, developing end-to-end data pipelines in Azure Fabric and integrating them into Power BI.
+- Deployed RAGs, enabling business and operations teams to query data 100% in human language for decision-making.
+- Led a team for **Edmentum**, building scalable data pipelines to onboard new data sources into the enterprise datalake.
+- Designed and wrote ETL scripts for medallion architecture, ensuring high-quality, reliable, optimized, and analytics-ready data.
+
 ### AI Engineer
 **Acts4Unity Foundation**  
 *Feb 2025 – May 2025 | Overland Park, Kansas*
@@ -54,14 +63,6 @@ Jawaharlal Nehru Technological University | GPA: 3.52/4.0
 - Applied prompt engineering and Chain-of-Thought (CoT) reasoning to enhance LLM responses in real-world use cases.
 - Partnered with clinical experts to align model outputs with health KPIs, enhancing the impact of AI-generated insights.
 
-### Data Scientist
-**Tricon Infotech LLC**  
-*May 2024 – Jan 2025 | Overland Park, Kansas*
-
-- Spearheaded **CFG Health**'s project, developing end-to-end data pipelines in Azure Fabric and integrating them into Power BI.
-- Deployed RAGs, enabling business and operations teams to query data 100% in human language for decision-making.
-- Led a team for **Edmentum**, building scalable data pipelines to onboard new data sources into the enterprise datalake.
-- Designed and wrote ETL scripts for medallion architecture, ensuring high-quality, reliable, optimized, and analytics-ready data.
 
 ### Data Science Intern
 **Tricon Infotech LLC**  
