@@ -72,13 +72,6 @@ Jawaharlal Nehru Technological University | GPA: 3.52/4.0
 - Designed semantic search using RAG + Neo4j; cut query latency by **85%** and improved result relevance for 100K+ documents.
 - Created developer APIs and onboarding docs; improved team productivity and cut onboarding time by over **50%**.
 
-### Student Worker
-**University of Arizona**  
-*Nov 2023 – Dec 2024 | Tucson, Arizona*
-
-- Analyzed sales data, store expenses, and returns to identify trends and optimize business performance.
-- Developed insights on customer engagement, peak hours, and staffing to inform operational decisions.
-
 ### Data Scientist (Data Engineer)
 **Tricon Infotech Pvt Ltd** *(Clients: Informa & HealthEdge)*  
 *Apr 2022 – Jul 2023 | Bangalore, India*
