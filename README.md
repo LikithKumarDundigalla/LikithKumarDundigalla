@@ -32,7 +32,7 @@ University of Arizona | GPA: 3.88/4.0
 
 ### Data Engineer [ Informa & HealthEdge ]
 **Tricon Infotech Pvt Ltd**
-*Aug 2022 - Jul 2023*
+*Apr 2022 - Jul 2023*
 - Built a PySpark ETL pipeline integrating 50+ global events into Domo BI with validation, ensuring 100% accuracy.
 - Resolved a critical data leakage issue through a data governance dashboard, enhancing data quality by 100%.
 - Led migration of 10+ databases from DocumentDB to PostgreSQL, ensuring consistency across 10M+ records.
@@ -41,21 +41,7 @@ University of Arizona | GPA: 3.88/4.0
 - Designed scalable real-time data solutions with Confluent Kafka and RabbitMQ for efficient streaming integration.
 - Integrated Python unit tests into CI/CD pipelines via Bitbucket Repos, achieving 92% test coverage.
 
-### Data Engineer Intern
-**Tricon Infotech Pvt Ltd**
-*Apr 2022 - Jul 2022*
-- Automated HR workflows entirely by integrating employee portfolios into Paywheel, saving over 10+ hours/month.
-- Developed dynamic Power BI dashboards for Paywheel enterprise data, enhancing strategic decision-making.
-- Utilized DAX to enhance data models, improving performance metrics and enabling deeper financial analysis.
-- Participated in Agile Sprint Demos, presenting completed work and gathering feedback from 15+ stakeholders.
 
-### Business Analyst
-**Medistar Enterprises**
-*Jan 2020 - Mar 2022*
-- Optimized financial planning and cost analysis for outsourced mask production, driving a 35% market expansion.
-- Conducted financial modeling and profitability analysis, driving to $15M revenue growth through B2B partnerships.
-- Developed financial dashboards to track expenditures, revenue, and budget variances for decision-making.
-- Monitored financial transactions and reconciled expenses, ensuring accurate reporting and compliance.
 
 
 ## GitHub Stats
